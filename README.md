@@ -1,4 +1,4 @@
-# 📌 Coinbase Fintech Poster – AFIN8014 (Session 2, 2025)
+# 📌 Coinbase Fintech Poster
 
 **Author:** Muntasir Md Nafis
 **Unit:** AFIN8014 – FinTech & Innovation
